@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "İşitme Projesi/1.0.0": {
+        "runtime": {
+          "İşitme Projesi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "İşitme Projesi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

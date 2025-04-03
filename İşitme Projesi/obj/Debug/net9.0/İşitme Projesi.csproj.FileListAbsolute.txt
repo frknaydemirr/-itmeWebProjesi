@@ -1,0 +1,98 @@
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\appsettings.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.staticwebassets.runtime.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.staticwebassets.endpoints.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.exe
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.deps.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.runtimeconfig.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.dll
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\bin\Debug\net9.0\İşitme Projesi.pdb
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.AssemblyInfoInputs.cache
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.AssemblyInfo.cs
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.csproj.CoreCompileInputs.cache
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.RazorAssemblyInfo.cache
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.RazorAssemblyInfo.cs
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\scopedcss\bundle\İşitme Projesi.styles.css
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\scopedcss\projectbundle\İşitme Projesi.bundle.scp.css
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\ak1d42skh3-b9sayid5wm.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\emy8i4nwbs-61n19gt1b8.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\c40851cw23-xtxxf3hu2r.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\lx84zfdieb-bqjiyaj88i.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\xce3u92iqe-c2jlpeoesf.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\ul7mbcgkql-erw9l3u2r3.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\mhsm13pu45-aexeepp0ev.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\9s693pqqfk-d7shbmvgxk.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\2azrhgj52w-ausgxo2sd3.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\qgi8enco4s-k8d9w2qqmf.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\4yzb6w7jl7-cosvhxvwiu.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\dkqxroz1nm-ub07r2b239.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\ploa6mi8i9-fvhpjtyr6v.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\y4nmywqk1d-b7pk76d08c.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\gppn62dtm0-fsbi9cje9m.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\7omd86tbup-rzd6atqjts.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\vdsakbexcw-ee0r1s7dh0.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\bigjrovix7-dxx9fxp4il.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\oygym6hea6-jd9uben2k1.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\jprr52gxwd-khv3u5hwcm.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\jh8xj9sojx-r4e9w2rdcm.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\8qgj2v0il2-lcd1t2u6c8.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\e4ztj0b8n5-c2oey78nd0.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\wsm0b0zy26-tdbxkamptv.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\psise3ems6-j5mq2jizvt.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\lp21b9rsew-06098lyss8.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\afhef0ympw-nvvlpmu67g.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\9wkuo7ztqq-s35ty4nyc5.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\jgkp7h21f6-pj5nd1wqec.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\5axqkegfmk-46ein0sx1k.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\i41st3ftfu-v0zj4ognzu.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\jlri8gm1l0-37tfw0ft22.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\nx7j104c47-hrwsygsryq.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\be4c6rtla7-pk9g2wxc8p.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\pnll61qg1o-ft3s53vfgj.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\v64p9hudiy-6cfz1n2cew.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\y2smba54rt-6pdc2jztkx.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\22tfem8k7h-493y06b0oq.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\khdjcsr3gf-iovd86k7lj.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\xeax7pvth3-vr1egmr9el.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\e80qf1pp8z-kbrnm935zg.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\642m90grt7-jj8uyg4cgr.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\vdzg1df853-y7v9cxd14o.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\fv0h0sx9op-notf2xhcfb.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\s9uyr3kcrz-h1s4sie4z3.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\rm8jaeuo2l-63fj8s7r0e.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\u3lgqq0d1n-0j3bgjxly4.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\lsmv3jsqbd-47otxtyo56.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\8h9u1dejzz-4v8eqarkd7.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\0u9oai90hh-356vix0kms.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\403qylcey6-83jwlth58m.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\hpnzckv5sk-mrlpezrjn3.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\bsmcz9llam-lzl9nlhx6b.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\kzdhivosiz-ag7o75518u.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\6whtjht8pz-x0q3zqp4vz.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\uu7m8jnu3e-0i3buxo5is.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\knc77j7a2q-o1o13a6vjx.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\6yr5vi5s1e-ttgo8qnofa.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\yt4so4tvmq-2z0ns9nrw6.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\q6wcj6fxea-muycvpuwrr.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\o3cerziyoz-87fc7y1x7t.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\ex60bfczlt-mlv21k5csn.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\6ik8x2eqx6-cfspyr5prb.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\compressed\rknal6d4eg-cfspyr5prb.gz
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets\msbuild.İşitme Projesi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets\msbuild.İşitme Projesi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets\msbuild.build.İşitme Projesi.props
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.İşitme Projesi.props
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.İşitme Projesi.props
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.dll
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\refint\İşitme Projesi.dll
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.pdb
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\İşitme Projesi.genruntimeconfig.cache
+C:\Users\Mekatronik\Desktop\İşitme Projesi\İşitme Projesi\obj\Debug\net9.0\ref\İşitme Projesi.dll
